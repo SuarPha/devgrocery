@@ -12,6 +12,9 @@
 ?>
 
 	<footer id="colophon" class="site-footer">
+
+		<h2>&copy; <?php the_date('Y'); ?> - <?php bloginfo('name'); ?></h2>	
+
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
